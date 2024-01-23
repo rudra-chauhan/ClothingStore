@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/ASSESTS/FONTS/AmberyGardenRegular-PKjGd.ttf",
+      "sha1": "f8b749493504a6ca95c98343d4e211078322212f"
+    },
+    {
+      "path": "src/ASSESTS/FONTS/Library3am-5V3Z.otf",
+      "sha1": "3a9801ff0959de5ff8f19df4185c7075a8f1989c"
+    },
+    {
+      "path": "src/ASSESTS/FONTS/Library3amsoft-6zgq.otf",
+      "sha1": "8a3d3c79cc05f820b1214ae87ec19471d5ca4280"
+    },
+    {
+      "path": "src/ASSESTS/FONTS/NewWaltDisneyUi-8YdA.ttf",
+      "sha1": "d2dda4fc17493f05ee60235a9f36715ffce9b421"
+    }
+  ]
+}
